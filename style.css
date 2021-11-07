@@ -1,0 +1,97 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-transform: capitalize;
+}
+
+* header {
+  height: 20vh;
+  text-align: center;
+  padding: 25px;
+  text-transform: capitalize;
+}
+
+* header p {
+  margin-top: 20px;
+  font-size: 14px;
+  opacity: 0.7;
+}
+
+* nav {
+  margin: 0 20px;
+  background-color: #333;
+  padding: 10px;
+}
+
+* nav a {
+  text-decoration: none;
+  color: #FFF;
+}
+
+* nav .float {
+  float: right;
+}
+
+* main {
+  background-color: #DDD;
+  position: relative;
+}
+
+* main section {
+  background-color: #FFF;
+  width: 70%;
+  position: relative;
+  top: 10px;
+  left: 10px;
+  padding: 40px 22px 5px;
+  margin-bottom: 20px;
+  display: inline-block;
+}
+
+* main section h2 {
+  text-transform: uppercase;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+* main section p {
+  font-size: 13px;
+  margin-bottom: 20px;
+}
+
+* main section article {
+  height: 132px;
+  background-color: #DDD;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+* main aside {
+  width: 28%;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+* main aside h3,
+* main aside h4 {
+  margin: -20px 0 20px;
+}
+
+* main aside h4 {
+  font-size: 15px;
+}
+
+* main aside div {
+  margin-bottom: 20px;
+}
+
+* footer {
+  height: 10vh;
+  text-align: center;
+  padding: 25px;
+  background-color: #AAA;
+}
+/*# sourceMappingURL=style.css.map */
